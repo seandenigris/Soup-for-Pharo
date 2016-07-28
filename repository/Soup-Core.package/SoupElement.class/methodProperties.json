@@ -2,7 +2,6 @@
 	"class" : {
 		"parent:previous:" : "za 12/10/2008 13:04" },
 	"instance" : {
-		"@" : "CamilloBruni 9/21/2011 15:09",
 		"attributeAt:" : "sd 3/27/2011 19:13",
 		"attributeAt:ifAbsent:" : "sd 3/27/2011 19:15",
 		"attributeAt:put:" : "sd 3/27/2011 19:13",
@@ -41,7 +40,6 @@
 		"findPreviousTag:" : "sd 12/11/2010 16:52",
 		"findPreviousTags:" : "sd 12/11/2010 16:52",
 		"findPreviousTags:stream:" : "za 12/22/2008 22:41",
-		"hasAttribute:" : "CamilloBruni 9/21/2011 15:09",
 		"hasAttributes" : "sd 3/27/2011 19:15",
 		"ifString:" : "za 12/22/2008 19:29",
 		"ifTag:" : "sd 12/13/2010 21:28",
