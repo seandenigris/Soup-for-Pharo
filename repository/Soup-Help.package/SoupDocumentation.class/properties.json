@@ -4,10 +4,10 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "StephaneDucasse 1/7/2011 15:54",
 	"instvars" : [
 		 ],
-	"name" : "MyHelpForNow",
+	"name" : "SoupDocumentation",
 	"pools" : [
 		 ],
 	"super" : "Object",
