@@ -3,9 +3,13 @@
 		 },
 	"instance" : {
 		"testAccessingText" : "sd 12/11/2010 15:17",
+		"testAttributeAtifAbsent" : "NicolasPinilla 1/10/2012 21:12",
+		"testAttributeAtput" : "NicolasPinilla 1/10/2012 20:13",
+		"testFindChildString" : "NicolasPinilla 1/10/2012 21:49",
+		"testFindChildTag" : "NicolasPinilla 1/10/2012 21:47",
 		"testFindNextSiblingString" : "za 12/22/2008 22:15",
 		"testFindNextSiblingStrings" : "za 12/22/2008 20:17",
-		"testFindNextSiblingTag" : "za 12/22/2008 22:18",
+		"testFindNextSiblingTag" : "NicolasPinilla 1/2/2012 11:57",
 		"testFindNextSiblingTags" : "sd 12/11/2010 17:38",
 		"testFindNextSiblingVersusFindTags" : "sd 1/7/2011 14:33",
 		"testFindNextString" : "za 12/22/2008 22:28",
@@ -20,4 +24,8 @@
 		"testFindPreviousStrings" : "za 12/22/2008 22:32",
 		"testFindPreviousTag" : "za 12/22/2008 22:20",
 		"testFindPreviousTags" : "za 12/22/2008 22:21",
-		"testNextSibling" : "za 12/26/2008 22:33" } }
+		"testHasAttributes" : "NicolasPinilla 1/10/2012 20:40",
+		"testIs" : "NicolasPinilla 1/10/2012 21:51",
+		"testNext" : "NicolasPinilla 1/10/2012 21:05",
+		"testNextSibling" : "NicolasPinilla 1/10/2012 21:10",
+		"testPrevious" : "NicolasPinilla 1/10/2012 21:03" } }
