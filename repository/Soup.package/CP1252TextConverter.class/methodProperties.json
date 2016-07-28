@@ -1,9 +1,0 @@
-{
-	"class" : {
-		"encodingNames" : "za 12/30/2008 02:34",
-		"initialize" : "za 12/30/2008 03:01" },
-	"instance" : {
-		"fromSqueak:" : "za 12/30/2008 02:40",
-		"nextFromStream:" : "za 12/30/2008 02:41",
-		"nextPut:toStream:" : "za 12/30/2008 02:42",
-		"toSqueak:" : "za 12/30/2008 03:23" } }
