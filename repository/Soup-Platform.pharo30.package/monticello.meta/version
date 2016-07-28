@@ -1,0 +1,1 @@
+(name 'Soup-Platform.pharo30-SeanDeNigris.1' message 'Use ZnEasy instead of HTTPClient, which no longer exists' id 'b9f41458-5bce-4fcb-81ea-4b44f64eb91d' date '12 April 2014' time '11:25:53.106603 am' author 'SeanDeNigris' ancestors () stepChildren ())
