@@ -8,7 +8,7 @@
 		"testBeParentOf" : "za 12/22/2008 17:49",
 		"testBeSelfClosing" : "za 12/22/2008 17:45",
 		"testChildAt" : "za 12/22/2008 17:45",
-		"testChildStringsDo" : "za 12/22/2008 19:32",
+		"testChildStringsDo" : "sd 12/5/2010 23:12",
 		"testChildTagsDo" : "za 12/22/2008 19:26",
 		"testChildrenDo" : "za 12/22/2008 17:44",
 		"testDoesNotUnderstand" : "za 12/21/2008 14:18",
@@ -22,5 +22,6 @@
 		"testIsTag" : "za 12/22/2008 17:41",
 		"testName" : "za 12/22/2008 17:40",
 		"testPrintOn" : "za 12/22/2008 22:38",
-		"testSize" : "za 12/22/2008 22:56",
-		"testString" : "za 12/22/2008 22:58" } }
+		"testSize" : "sd 12/5/2010 23:01",
+		"testSizeContainingSquareBrackets" : "sd 12/5/2010 22:54",
+		"testString" : "sd 12/5/2010 22:41" } }
