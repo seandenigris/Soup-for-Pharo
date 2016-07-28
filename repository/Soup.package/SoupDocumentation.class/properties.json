@@ -6,12 +6,8 @@
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"parent",
-		"previous",
-		"next",
-		"previousSibling",
-		"nextSibling" ],
-	"name" : "SoupElement",
+		 ],
+	"name" : "SoupDocumentation",
 	"pools" : [
 		 ],
 	"super" : "Object",
