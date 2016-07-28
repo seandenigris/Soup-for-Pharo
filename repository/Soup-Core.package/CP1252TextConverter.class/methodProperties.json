@@ -1,7 +1,9 @@
 {
 	"class" : {
+		"byteToUnicodeSpec" : "pmm 8/16/2010 11:21",
 		"encodingNames" : "za 12/30/2008 02:34",
-		"initialize" : "za 12/30/2008 03:01" },
+		"initialize" : "za 12/30/2008 03:01",
+		"languageEnvironment" : "pmm 8/16/2010 10:30" },
 	"instance" : {
 		"fromSqueak:" : "za 12/30/2008 02:40",
 		"nextFromStream:" : "za 12/30/2008 02:41",
