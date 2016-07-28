@@ -1,0 +1,30 @@
+{
+	"category" : "SoupGemstone-Core-Parser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"string",
+		"currentData",
+		"tagStack",
+		"quoteStack",
+		"interesting",
+		"startTagOpen",
+		"charRef",
+		"entityRef",
+		"endBracket",
+		"tagFind",
+		"attrFind",
+		"entityOrCharRef",
+		"previous",
+		"literal",
+		"parameters",
+		"incomplete",
+		"refFind" ],
+	"name" : "SoupParser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

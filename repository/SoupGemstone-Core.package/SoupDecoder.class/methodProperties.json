@@ -1,0 +1,27 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"convertSmartQuote:" : "za 12/27/2008 21:31",
+		"convertSmartQuoteToHtml:" : "za 12/27/2008 21:11",
+		"convertSmartQuoteToXml:" : "za 12/27/2008 21:10",
+		"convertSmartQuotes:" : "za 12/27/2008 21:04",
+		"convertSmartQuotesToHtml" : "za 12/27/2008 21:32",
+		"convertSmartQuotesToXml" : "za 12/27/2008 21:32",
+		"decode" : "PaulDeBruicker 09/04/2013 15:56",
+		"decodeFrom:" : "PaulDeBruicker 09/04/2013 15:33",
+		"decodePythonString:" : "za 12/30/2008 01:39",
+		"detectEncoding" : "za 12/30/2008 02:01",
+		"encodeAsUtf8:" : "za 12/27/2008 21:37",
+		"htmlForSmartQuote:" : "za 12/30/2008 03:08",
+		"initialize" : "za 12/30/2008 02:21",
+		"initializeHtmlForSmartQuotes" : "za 12/27/2008 21:34",
+		"initializeXmlForSmartQuotes" : "za 12/27/2008 21:34",
+		"possibleEncodings" : "StephaneDucasse 1/19/2011 22:13",
+		"reset" : "za 12/30/2008 02:10",
+		"shouldConvertSmartQuotes:" : "sd 1/20/2011 09:42",
+		"sniffEncoding" : "za 12/30/2008 02:00",
+		"sniffNonAsciiCompatibleEncoding" : "sd 1/20/2011 09:31",
+		"string:" : "za 12/30/2008 01:18",
+		"stringStartsWith:" : "za 3/9/2009 16:08",
+		"xmlForSmartQuote:" : "za 12/30/2008 03:04" } }

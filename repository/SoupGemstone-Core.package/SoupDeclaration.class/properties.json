@@ -1,0 +1,14 @@
+{
+	"category" : "SoupGemstone-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SoupDeclaration",
+	"pools" : [
+		 ],
+	"super" : "SoupString",
+	"type" : "normal" }

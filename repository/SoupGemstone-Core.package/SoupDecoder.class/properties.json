@@ -1,0 +1,23 @@
+{
+	"category" : "SoupGemstone-Core-Parser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"string",
+		"encoding",
+		"metaEncoding",
+		"xmlEncoding",
+		"sniffedXmlEncoding",
+		"shouldConvertSmartQuotes",
+		"convertSmartQuotesTo",
+		"xmlForSmartQuotes",
+		"htmlForSmartQuotes",
+		"xmlData" ],
+	"name" : "SoupDecoder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
