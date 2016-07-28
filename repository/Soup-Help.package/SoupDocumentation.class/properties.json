@@ -10,5 +10,5 @@
 	"name" : "SoupDocumentation",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "CustomHelp",
 	"type" : "normal" }
