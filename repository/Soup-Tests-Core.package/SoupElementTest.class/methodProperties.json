@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAccessingText" : "sd 12/11/2010 15:17",
+		"testFindNextSiblingString" : "za 12/22/2008 22:15",
+		"testFindNextSiblingStrings" : "za 12/22/2008 20:17",
+		"testFindNextSiblingTag" : "za 12/22/2008 22:18",
+		"testFindNextSiblingTags" : "sd 12/11/2010 17:38",
+		"testFindNextSiblingVersusFindTags" : "sd 1/7/2011 14:33",
+		"testFindNextString" : "za 12/22/2008 22:28",
+		"testFindNextStrings" : "za 12/22/2008 22:27",
+		"testFindNextTag" : "za 12/22/2008 22:20",
+		"testFindNextTags" : "za 12/22/2008 22:20",
+		"testFindPreviousSiblingString" : "za 12/22/2008 22:14",
+		"testFindPreviousSiblingStrings" : "za 12/22/2008 20:22",
+		"testFindPreviousSiblingTag" : "za 12/22/2008 22:12",
+		"testFindPreviousSiblingTags" : "za 12/22/2008 20:24",
+		"testFindPreviousString" : "za 12/22/2008 22:28",
+		"testFindPreviousStrings" : "za 12/22/2008 22:32",
+		"testFindPreviousTag" : "za 12/22/2008 22:20",
+		"testFindPreviousTags" : "za 12/22/2008 22:21",
+		"testNextSibling" : "za 12/26/2008 22:33" } }
