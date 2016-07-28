@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAddChild" : "za 12/22/2008 17:37",
+		"testAttributeAt" : "za 12/22/2008 17:39",
+		"testAttributeAtPut" : "za 12/22/2008 17:40",
+		"testBeParentOf" : "za 12/22/2008 17:49",
+		"testBeSelfClosing" : "za 12/22/2008 17:45",
+		"testChildAt" : "za 12/22/2008 17:45",
+		"testChildStringsDo" : "za 12/22/2008 19:32",
+		"testChildTagsDo" : "za 12/22/2008 19:26",
+		"testChildrenDo" : "za 12/22/2008 17:44",
+		"testDoesNotUnderstand" : "za 12/21/2008 14:18",
+		"testFindAllStrings" : "za 12/22/2008 19:08",
+		"testFindAllTags" : "za 12/22/2008 19:25",
+		"testFindString" : "za 12/22/2008 19:07",
+		"testFindTag" : "za 12/21/2008 14:01",
+		"testFindTagIfPresent" : "za 12/21/2008 14:07",
+		"testIfTag" : "za 12/22/2008 17:42",
+		"testIsSelfClosing" : "za 12/22/2008 17:42",
+		"testIsTag" : "za 12/22/2008 17:41",
+		"testName" : "za 12/22/2008 17:40",
+		"testPrintOn" : "za 12/22/2008 22:38",
+		"testSize" : "za 12/22/2008 22:56",
+		"testString" : "za 12/22/2008 22:58" } }

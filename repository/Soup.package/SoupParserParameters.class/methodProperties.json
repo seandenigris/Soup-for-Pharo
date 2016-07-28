@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"forHtml" : "za 12/20/2008 10:47",
+		"reset" : "za 12/23/2008 02:51" },
+	"instance" : {
+		"entityDefs" : "za 12/25/2008 01:22",
+		"initializeForHtml" : "test 12/23/2008 02:46",
+		"nestableTags" : "za 12/20/2008 11:10",
+		"quoteTags" : "za 12/20/2008 11:09",
+		"resetNestingTags" : "za 12/20/2008 11:10",
+		"selfClosingTags" : "za 12/20/2008 11:08" } }

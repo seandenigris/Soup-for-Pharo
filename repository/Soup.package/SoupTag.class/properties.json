@@ -1,0 +1,17 @@
+{
+	"category" : "Soup",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"attributes",
+		"children",
+		"isSelfClosing" ],
+	"name" : "SoupTag",
+	"pools" : [
+		 ],
+	"super" : "SoupElement",
+	"type" : "normal" }

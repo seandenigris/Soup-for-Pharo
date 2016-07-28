@@ -1,0 +1,18 @@
+{
+	"category" : "Soup",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"parent",
+		"previous",
+		"next",
+		"previousSibling",
+		"nextSibling" ],
+	"name" : "SoupElement",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

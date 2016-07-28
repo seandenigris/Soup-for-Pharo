@@ -1,0 +1,14 @@
+{
+	"category" : "Soup",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SoupProcessingInstruction",
+	"pools" : [
+		 ],
+	"super" : "SoupString",
+	"type" : "normal" }
