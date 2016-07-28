@@ -5,6 +5,7 @@
 	"instance" : {
 		"addChild:" : "za 12/9/2008 14:14",
 		"attributeAt:" : "za 12/10/2008 16:55",
+		"attributeAt:ifAbsent:" : "sd 3/27/2011 19:14",
 		"attributeAt:put:" : "za 12/7/2008 05:52",
 		"beParentOf:" : "za 12/11/2008 00:34",
 		"beSelfClosing" : "za 12/10/2008 16:24",
@@ -28,6 +29,7 @@
 		"findTagByClass:" : "za 5/14/2009 00:45",
 		"findTagByClass:ifAbsent:" : "za 2/5/2009 02:51",
 		"findTagByClass:ifPresent:" : "za 2/4/2009 10:23",
+		"hasAttributes" : "sd 3/27/2011 19:15",
 		"ifTag:" : "sd 12/13/2010 21:28",
 		"initialize" : "za 12/10/2008 16:21",
 		"isSelfClosing" : "za 12/10/2008 16:24",
