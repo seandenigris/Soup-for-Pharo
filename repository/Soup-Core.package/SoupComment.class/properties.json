@@ -1,0 +1,14 @@
+{
+	"category" : "Soup-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SoupComment",
+	"pools" : [
+		 ],
+	"super" : "SoupString",
+	"type" : "normal" }
