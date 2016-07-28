@@ -1,0 +1,1 @@
+(name 'Soup-Platform.squeak-SeanDeNigris.1' message 'Abstract HTTPClient to make working in Pharo 3.0 which no longer has one (now uses Zinc)' id '790a3852-e966-4257-8184-670970ec117c' date '12 April 2014' time '10:00:13.755043 am' author 'SeanDeNigris' ancestors () stepChildren ())
