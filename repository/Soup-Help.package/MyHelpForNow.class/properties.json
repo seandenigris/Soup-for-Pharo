@@ -1,0 +1,14 @@
+{
+	"category" : "Soup-Help",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MyHelpForNow",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
