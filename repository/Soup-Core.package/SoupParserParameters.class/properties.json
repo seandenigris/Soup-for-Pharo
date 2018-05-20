@@ -1,10 +1,12 @@
 {
-	"category" : "Soup-Core-Parser",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		"ForHtml" ],
 	"commentStamp" : "TorstenBergmann 4/14/2016 08:20",
+	"super" : "Object",
+	"category" : "Soup-Core-Parser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"ForHtml"
+	],
 	"instvars" : [
 		"selfClosingTags",
 		"nestableInlineTags",
@@ -15,9 +17,8 @@
 		"nonNestableBlockTags",
 		"resetNestingTags",
 		"quoteTags",
-		"entityDefinitions" ],
+		"entityDefinitions"
+	],
 	"name" : "SoupParserParameters",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

@@ -1,18 +1,17 @@
 {
-	"category" : "Soup-Core-Base",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Soup-Core-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"parent",
 		"previous",
 		"next",
 		"previousSibling",
-		"nextSibling" ],
+		"nextSibling"
+	],
 	"name" : "SoupElement",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

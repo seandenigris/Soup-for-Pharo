@@ -1,10 +1,10 @@
 {
-	"category" : "Soup-Core-Parser",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "TorstenBergmann 4/14/2016 08:21",
+	"super" : "Object",
+	"category" : "Soup-Core-Parser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"string",
 		"encoding",
@@ -15,9 +15,8 @@
 		"convertSmartQuotesTo",
 		"xmlForSmartQuotes",
 		"htmlForSmartQuotes",
-		"xmlData" ],
+		"xmlData"
+	],
 	"name" : "SoupDecoder",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

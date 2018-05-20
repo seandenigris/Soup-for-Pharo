@@ -1,14 +1,11 @@
 {
-	"category" : "Soup-Core-Base",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
-	"instvars" : [
-		 ],
-	"name" : "Soup",
-	"pools" : [
-		 ],
 	"super" : "SoupTag",
-	"type" : "normal" }
+	"category" : "Soup-Core-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Soup",
+	"type" : "normal"
+}

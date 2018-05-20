@@ -1,14 +1,11 @@
 {
-	"category" : "Soup-Core-TextConversion",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "TorstenBergmann 4/14/2016 08:21",
-	"instvars" : [
-		 ],
-	"name" : "ASCIITextConverter",
-	"pools" : [
-		 ],
 	"super" : "TextConverter",
-	"type" : "normal" }
+	"category" : "Soup-Core-TextConversion",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ASCIITextConverter",
+	"type" : "normal"
+}

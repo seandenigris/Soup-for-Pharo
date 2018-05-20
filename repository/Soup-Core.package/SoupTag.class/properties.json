@@ -1,17 +1,16 @@
 {
-	"category" : "Soup-Core-Base",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "TorstenBergmann 4/14/2016 08:19",
+	"super" : "SoupElement",
+	"category" : "Soup-Core-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"name",
 		"attributes",
 		"children",
-		"isSelfClosing" ],
+		"isSelfClosing"
+	],
 	"name" : "SoupTag",
-	"pools" : [
-		 ],
-	"super" : "SoupElement",
-	"type" : "normal" }
+	"type" : "normal"
+}
