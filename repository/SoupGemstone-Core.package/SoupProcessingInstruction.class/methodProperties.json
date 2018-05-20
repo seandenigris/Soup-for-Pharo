@@ -1,6 +1,7 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"isProcessingInstruction" : "za 12/25/2008 07:19",
-		"printOn:" : "za 12/25/2008 07:19" } }
+		"printOn:" : "za 12/25/2008 07:19",
+		"isProcessingInstruction" : "za 12/25/2008 07:19"
+	},
+	"class" : { }
+}

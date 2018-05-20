@@ -1,15 +1,18 @@
 {
+	"instance" : {
+		"printOn:" : "za 12/22/2008 21:59",
+		"initialize" : "za 12/23/2008 04:42",
+		"doesNotUnderstand:" : "PaulDeBruicker 09/05/2014 07:16",
+		"addChild:" : "za 12/20/2008 11:00",
+		"isSoup" : "za 12/20/2008 10:59"
+	},
 	"class" : {
 		"License" : "za 12/30/2008 04:46",
-		"OriginalLicense" : "za 12/30/2008 04:46",
 		"defaultName" : "za 12/26/2008 22:29",
-		"defaultParserParameters" : "za 12/20/2008 10:46",
-		"fromString:" : "za 12/20/2008 10:45",
 		"fromUrl:" : "za 2/11/2009 02:39",
-		"new" : "za 12/26/2008 22:29" },
-	"instance" : {
-		"addChild:" : "za 12/20/2008 11:00",
-		"doesNotUnderstand:" : "PaulDeBruicker 09/05/2014 07:16",
-		"initialize" : "za 12/23/2008 04:42",
-		"isSoup" : "za 12/20/2008 10:59",
-		"printOn:" : "za 12/22/2008 21:59" } }
+		"new" : "za 12/26/2008 22:29",
+		"OriginalLicense" : "za 12/30/2008 04:46",
+		"fromString:" : "za 12/20/2008 10:45",
+		"defaultParserParameters" : "za 12/20/2008 10:46"
+	}
+}

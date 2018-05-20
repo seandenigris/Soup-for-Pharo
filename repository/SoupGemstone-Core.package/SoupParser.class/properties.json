@@ -1,10 +1,10 @@
 {
-	"category" : "SoupGemstone-Core-Parser",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "SoupGemstone-Core-Parser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"string",
 		"currentData",
@@ -22,9 +22,8 @@
 		"literal",
 		"parameters",
 		"incomplete",
-		"refFind" ],
+		"refFind"
+	],
 	"name" : "SoupParser",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}
