@@ -1,14 +1,11 @@
 {
-	"category" : "Soup-Tests-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "SoupTagTest",
-	"pools" : [
-		 ],
 	"super" : "SoupElementTest",
-	"type" : "normal" }
+	"category" : "Soup-Tests-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SoupTagTest",
+	"type" : "normal"
+}
