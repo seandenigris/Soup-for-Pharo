@@ -1,3 +1,9 @@
+# Obsolete Repository
+
+This work now lives at community-supported https://github.com/pharo-contributions/Soup.
+
+# Old README
+
 A port of from Python of [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/).
 Initial versions by Zulq Alam.
 
